@@ -50,7 +50,7 @@ GMP, SOP, cGMP, Quality Assurance, Internal Audits, Risk Management
 ### 📊 1. Sales Analysis (Tableau)
 Understanding sales pattern in DS's Fine Foods Emporium. Analysis is performed on Tableau to answer given questions. 
 
-🔗 [View Project Folder](./projects/sales-analysis)  
+🔗 [View Project Folder](./projects/sales_analysis)  
 📁 Contains: Tableau workbook, data file, and summary report.
 
 ---
