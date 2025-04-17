@@ -59,10 +59,10 @@ This project focuses on building a data warehouse solution using SQL to consolid
 🔗 [View Project Folder](./projects/DataWarehousing)  
 📁 Contains: SQL workbook, data file, and summary report.
 
-II. Exploring Data (SQL)
+B. Exploring Data (SQL)
+Understanding applications
 
 [View Project Folder](./projects/DataSQL)  
-Understanding applications
 📁 Contains: SQL workbook, data file, and summary report.
 
 ### 📊 3. Excercise Regression (SPSS Statistics)
