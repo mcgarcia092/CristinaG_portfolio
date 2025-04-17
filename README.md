@@ -65,4 +65,9 @@ II. Exploring Data (SQL)
 Understanding applications
 📁 Contains: SQL workbook, data file, and summary report.
 
+### 📊 3. Excercise Regression (SPSS Statistics)
+The exercise study explores how individuals' psychological perceptions, motivation levels, and wellness-related attitudes relate to their participation in and evaluation of physical activity routines.
+
+🔗 [View Project Folder](./projects/Regression)  
+📁 Contains: SPSS statistics, data file, and summary report.
 ---
