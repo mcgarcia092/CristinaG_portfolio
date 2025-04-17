@@ -9,7 +9,7 @@ Key highlights include:
 
 📄 [View Full Report (PDF)](./SPSSRegression.pdf)
 
-![SPSS Regression Preview](./images/spss_regression_preview.png)
+
 
 ---
 
@@ -40,5 +40,5 @@ The file `Factor_Analysis_For_Assignment.pdf` contains **factor analysis** resul
 
 📄 [View Full Report (PDF)](./Factor_Analysis_For_Assignment.pdf)
 
-![Factor Analysis Preview](./images/factor_analysis_preview.png)
+
 
