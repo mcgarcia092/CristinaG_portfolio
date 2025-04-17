@@ -70,4 +70,5 @@ The exercise study explores how individuals' psychological perceptions, motivati
 
 🔗 [View Project Folder](./projects/Regression)  
 📁 Contains: SPSS statistics, data file, and summary report.
+
 ---
