@@ -53,4 +53,10 @@ Understanding sales pattern in DS's Fine Foods Emporium. Analysis is performed o
 🔗 [View Project Folder](./projects/sales_analysis)  
 📁 Contains: Tableau workbook, data file, and summary report.
 
+### 🗃️  2. Data Warehousing (SQL)
+This project focuses on building a **data warehouse** solution using **SQL** to consolidate sales data from **two different agents** within the same company into a **single source of truth**. 
+
+🔗 [View Project Folder](./projects/Data Warehousing)  
+📁 Contains: SQL workbook, data file, and summary report.
+
 ---
