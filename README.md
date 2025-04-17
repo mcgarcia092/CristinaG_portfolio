@@ -71,4 +71,10 @@ The exercise study explores how individuals' psychological perceptions, motivati
 🔗 [View Project Folder](./projects/Regression)  
 📁 Contains: SPSS statistics, data file, and summary report.
 
+### 🧬 3.Alzhimer's Nutrition & Genotype Study (Matlab and Pyton)
+This study explores how four Alzheimer's-associated genotypes (APOES, GBA, HLA, G9) interact with nutritional factors in a population of over 18,000 mice to assess the impact of genetics, sex, and breeding status on Alzheimer’s-related outcomes.
+
+🔗 [View Project Folder](./projects/Alzheimer)  
+📁 Contains: Matlab, Python, data file, and summary report.
+
 ---
