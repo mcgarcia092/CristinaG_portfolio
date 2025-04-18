@@ -71,10 +71,16 @@ The exercise study explores how individuals' psychological perceptions, motivati
 🔗 [View Project Folder](./projects/Regression)  
 📁 Contains: SPSS statistics, data file, and summary report.
 
-### 🧬 3.Alzhimer's Nutrition & Genotype Study (Matlab and Pyton)
+### 🧬 4. Alzhimer's Nutrition & Genotype Study (Matlab and Python)
 This study explores how four Alzheimer's-associated genotypes (APOES, GBA, HLA, G9) interact with nutritional factors in a population of over 18,000 mice to assess the impact of genetics, sex, and breeding status on Alzheimer’s-related outcomes.
 
 🔗 [View Project Folder](./projects/Alzheimer)  
 📁 Contains: Matlab, Python, data file, and summary report.
+
+### 📝 5. Canada's Logistic Performance Index (Jupyter Notebook, Excel, and Python)
+This study analyzes Canada's Logistics Performance Index (LPI) from 2007 to 2023 using World Bank data to identify which of the six LPI components most significantly influence its overall score, with a focus on regression modeling and hypothesis testing.
+
+🔗 [View Project Folder](./projects/Canada_LPI)  
+📁 Contains: Jupyter Notebook, Excel, Python, data file, and summary report.
 
 ---
