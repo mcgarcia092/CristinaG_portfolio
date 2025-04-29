@@ -1,7 +1,5 @@
 # 👩‍💻 Cristina Garcia
-
-📊 **MS Business Analytics Candidate** | 🔬 **BSc Molecular & Cellular Biology**  
-🌵 Arizona State University | 🧪 University of Arizona  
+ 
 🎯 Data-Driven • Detail-Oriented • Research-Backed
 
 ---
