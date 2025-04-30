@@ -81,4 +81,10 @@ This study analyzes Canada's Logistics Performance Index (LPI) from 2007 to 2023
 🔗 [View Project Folder](./projects/Canada_LPI)  
 📁 Contains: Jupyter Notebook, Excel, Python, data file, and summary report.
 
+### 📊 6. Wine Quality (Jupyter Notebook, Linear Regression, and Python)
+This study analyzes Canada's Logistics Performance Index (LPI) from 2007 to 2023 using World Bank data to identify which of the six LPI components most significantly influence its overall score, with a focus on regression modeling and hypothesis testing.
+
+🔗 [View Project Folder](./projects/Wine_Quality)  
+📁 Contains: Jupyter Notebook, Excel, Python, data file, and summary report.
+
 ---
