@@ -63,4 +63,11 @@ To develop a multiple linear regression model that predicts wine quality based o
 - Matplotlib / Seaborn
 - NumPy
 
+---
+
+## 📘 Notebook Preview (via nbviewer)
+
+👉 [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/Module3_Exercise_Wine_Quality.ipynb)
+
+
 
