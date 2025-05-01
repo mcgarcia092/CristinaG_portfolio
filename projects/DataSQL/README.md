@@ -22,6 +22,6 @@ The goal is to extract meaningful insights from raw data stored in a relational 
 - SQL 
 - Relational Databases
 
-👉 [View on GitHub](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/DataSQL/HW3_Garcia_Cristina.sql)📄 
+👉 [View on GitHub](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/DataSQL/HW3_Garcia_Cristina.sql)
 
-[View SQL File – HW3_Garcia_Cristina.sql](./HW3_Garcia_Cristina.sql)
+📄 [View SQL File – HW3_Garcia_Cristina.sql](./HW3_Garcia_Cristina.sql)
