@@ -377,69 +377,7 @@ for iGenotypez = 1%:length(genotypez)
         saveas(gcf,N,'epsc'); % saves as an eps color figure
         
         
-%         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%         %% Plot longitudinally and organize by sex and genotype by percentage weight lost or gained
-%         
-%         figure;
-%         Data = sortrows(Data,'AnimalID');
-%         animals = unique(Data.AnimalID)
-%         
-%         Sex = unique(sumz_mnths.Sex);
-%         
-%         for iAnimal = 1:length(unique(Data.AnimalID))
-%             sect_data = Data(Data.AnimalID==animals(iAnimal),:);
-%             sect_data = sortrows(sect_data,'AgeAtWeight_weeks_');
-%             
-%             if strcmp(single_geno,'APOE')
-%                 Data_lines = sect_data.Line_Short_;
-%                 Lines = unique(sumz_mnths.Line_Short_);
-%             else
-%                 Data_lines = sect_data.Genotype;
-%                 Lines = unique(sumz_mnths.Genotype);
-%             end
-%             
-%             if Rows(sect_data) == 1
-%                 continue
-%             end
-%             
-%             %% need a check here for if the months are more than 1 apart
-%             WeightPercentage = (diff(sect_data.Weight)./sect_data.Weight(1:end-1))*100;
-%             
-%             %% Unique tables
-%             Sexes = reshape(ndgrid(Sex,Lines),1,numel(ndgrid(Sex,Lines)));
-%             Linez = reshape(ndgrid(Lines,Sex),1,numel(ndgrid(Lines,Sex)));%
-%             %ngrid= returns distributed array column vector for one
-%             dimensional; grid 
-%             %%
-%             for iSex = 1:length(Sexes)
-%                 for iLine = 1:length(Linez)
-%                     if sum(strcmp(Data_lines,Lines{1}))>0 & sum(strcmp(sect_data.Sex,Sex(iSex)))>0
-%                         subplot(length(Sex),length(Lines),1) %% STRCMP THIS
-%                         title([Sexes{iSex} ' ' Linez{iLine}]);
-%                     end
-%                 end
-%             end
-%             
-%             plot(sect_data.AgeAtWeight_weeks_(1:end-1),WeightPercentage,'-');
-%             hold on;
-%         end
-%         
-%         for iPlot = 1:length(Sex)*length(Lines)
-%             subplot(length(Sex),length(Lines),iPlot)
-%             xlabel('Age (wks)');
-%             ylabel('Weight percent change');
-%             set(gca,'XLim',[0 60]);
-%             set(gca,'YLim',[-50 100]);
-% %             pubify_figure_axis(14,14);
-%         end
-%         
-%         cd('/Users/jplw/Desktop/CIBS/LABS/Brinton Lab/COMPOSITE_DATA/Weight_data/ColonyWeights')
-%         set(gcf, 'Position', get(0, 'Screensize')); % fullscreens the figure so the text doesn't run
-%         N = [genotype '_longitudinal_weights'];
-%         saveas(gcf,N,'epsc'); % saves as an eps color figure
-%         close
-        
+
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         %% Next need to average these values for each genotype with SEM
