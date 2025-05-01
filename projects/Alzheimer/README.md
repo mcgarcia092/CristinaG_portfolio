@@ -18,3 +18,5 @@ The results, key visualizations, and insights from the analysis are presented in
 
 📄 [View Final Presentation – Alzheimer's Study (PPTX)](./final_presentation_12_12_12.pptx)
 
+
+👉 [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Alzheimer/HLA_Final_12_07_22.m)
