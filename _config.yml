@@ -2,4 +2,15 @@ title: Cristina Garcia
 #logo: /assets/img/
 #description : text below image
 #show_ downloads: true
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="IMG_4391.jpg" alt="Cristina Garcia" width="160" style="border-radius: 10px;">
+  <div>
+    <h1>👩‍💼 Cristina Garcia</h1>
+    <p>
+      📊 Data-Driven • 🧠 Detail-Oriented • 🔬 Research-Backed<br>
+      I'm passionate about bridging biology, business, and data analytics to drive results. 
+    </p>
+  </div>
+</div>
+
 theme: jekyll-theme-minimal
