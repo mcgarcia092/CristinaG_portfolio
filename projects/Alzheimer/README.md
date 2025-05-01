@@ -23,3 +23,8 @@ The results, key visualizations, and insights from the analysis are presented in
 
 👉  [View MATLAB script on GitHub](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Alzheimer/HLA_Final_12_07_22.m)
 
+(https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Alzheimer/apoes_final_12_07_22.m)
+
+(https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Alzheimer/C9_final_12_07_22.m)
+
+(https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Alzheimer/GBA_final_12_07_22.m)
