@@ -30,7 +30,7 @@ While no direct correlation was found between infrastructure and tracking & trac
 > _"With an R² value of 0.797, the results show a high level of correlation between these combined scores and Canada's overall LPI score."_
 
 Regression Model (Jupyter Notebook)
-> 📝 [View LPI_Team1_regression.ipynb](./LPI_Team1_regression.ipynb)
+> 👉 [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Canada_LPI/LPI_Team1_regression.ipynb)
 
 
 #### 🛠️ Strategic Recommendations
