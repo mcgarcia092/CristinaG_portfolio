@@ -29,6 +29,7 @@ SQL queries are used to perform ETL (Extract, Transform, Load) tasks, build fact
 
 You can preview the SQL scripts directly in your browser:
 
-- 👉 [Create Tables](./data_warehouse_project/create_tables.sql)
+👉 [View on GitHub](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/DataWarehousing/
+.sql)
 
 📄 [Download Full Report (PDF)](./DataWarehousing.pdf)
