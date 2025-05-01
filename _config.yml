@@ -3,7 +3,9 @@ logo: /IMG_4391.jpg
 description: I'm passionate about bridging biology, business, and data analytics to drive results.
 theme: jekyll-theme-minimal
 
-### 📬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cristina-garcia99/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:mcgarcia092@gmail.com)
+# Custom sidebar links
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/cristina-garcia99/
+  - name: Email
+    url: mailto:mcgarcia092@gmail.com
