@@ -151,29 +151,8 @@ subplot(2,3,6)
         xlabel(['N Female GBA HET breeding weights = ' num2str(Rows(B_Female_HET))])
         set(gca,'XTick',[],'YTick',[])%curreWT axis or x and y
         set(gca,'Color',[.75 .75 .75])%total N of animals 
-%% 
+ 
 
 
 
-
-% NonBreeders= 5596
-% Breeder = 200
-% D_B= Data_breeders;
-% y= D_B(:, (["Genotype";"Sex"]));
-% Ysorted= sortrows(y);
-%        
-%         B_Female_HET= Ysorted(1:71, :);
-%         B_Male_HET= Ysorted(72:112, :);
-%         B_Female_WT= Ysorted(113:145, :);
-%         B_Male_WT= Ysorted(146:200, :);
-% 
-%         
-% D_NB= Data_nonbreeders;
-% Z= D_NB(:, (["Genotype";"Sex"]));
-% Zsorted= sortrows(Z);
-%        
-%         NB_Female_HET= Zsorted(1:1583, :);
-%         NB_Male_HET= Zsorted(1584:2780, :);
-%         NB_Female_WT= Zsorted(2781:4124, :);
-%         NB_Male_WT= Zsorted(4125:5576, :);
 
