@@ -1,5 +1,4 @@
 # 👩‍💻 Cristina Garcia
-![Profile Picture](./IMG_4391.jpg)
 
 🎯 Data-Driven • Detail-Oriented • Research-Backed
 
