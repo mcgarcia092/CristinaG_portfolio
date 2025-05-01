@@ -2,6 +2,11 @@
 
 🎯 Data-Driven • Detail-Oriented • Research-Backed
 
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cristina-garcia99/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:mcgarcia092@gmail.com)
+
 ---
 
 ## 📚 Education
