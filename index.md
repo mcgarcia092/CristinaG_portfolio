@@ -69,7 +69,7 @@ Understanding sales pattern in DS's Fine Foods Emporium. Analysis is performed o
 
 
 ### 🗃️  2. Data Warehousing (SQL)
-This project focuses on building a data warehouse solution using SQL to consolidate sales data from **two different agents within the same company into a single source of truth. 
+This project focuses on building a data warehouse solution using SQL to consolidate sales data from two different agents within the same company into a single source of truth. 
 
 🔗 [View Project Folder](./projects/DataWarehousing)  
 
