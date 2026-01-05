@@ -16,8 +16,7 @@ Four genotypes commonly linked to Alzheimer's — **APOES, GBA, HLA, and G9** �
 #### 📊 Output
 The results, key visualizations, and insights from the analysis are presented in the slide deck below:
 
-📄 [View Final Presentation – Alzheimer's Study (PPTX)](Alzheimer/final_presentation_12_12_22.pptx)
-
+📥 [Download PPTX](/blob/main/projects/Alzheimer/final_presentation_12_12_22.pptx)
 
 ## 🔧 MATLAB Script Preview
 
