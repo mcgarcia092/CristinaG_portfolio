@@ -64,7 +64,7 @@ This indicated higher rates of weak or moderate performance in Literary Text com
 
 👉 Powepoint [View Key Findings PDF](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Key_findings.pdf)
 
-👉 Code [View Notebook on GitHub](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Codes.ipynb)
+👉 Code [View Notebook on nbviewer](https://nbviewer.org/urls/raw.githubusercontent.com/mcgarcia092/CristinaG_portfolio/main/projects/Capstone/Codes.ipynb)
 
 ---
 
