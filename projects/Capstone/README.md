@@ -13,15 +13,15 @@ Persistently low mastery rates negatively impacted school accountability metrics
 ---
 
 ## 🛠️ Tools & Technologies
-Python
-Excel
-Lean Six Sigma DMAIC
-Multiple Regression Analysis
-ANOVA
-Correlation Analysis
-Data Visualization
-Statistical Modeling
-DPMO Metrics
+* Python
+* Excel
+* Lean Six Sigma DMAIC
+* Multiple Regression Analysis
+* ANOVA
+* Correlation Analysis
+* Data Visualization
+* Statistical Modeling
+* DPMO Metrics
 
 ---
 
