@@ -62,8 +62,8 @@ DPMO analysis identified Literary Text as a key instructional gap in 6th grade:
 
 This indicated higher rates of weak or moderate performance in Literary Text comprehension.
 
-👉 Powepoint [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Key_findings.pdf)
-👉 Code [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Codes.ipnyb)
+👉 Powepoint [View Key Findings PDF](https://github.com/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Key_findings.pdf)
+👉 Code [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Codes.ipynb)
 
 ---
 
