@@ -107,4 +107,5 @@ This project explores the relationship between physicochemical properties of win
 This capstone project applies Business Intelligence and Lean Six Sigma DMAIC methodologies to analyze factors influencing middle school academic performance and assessment mastery outcomes. Using confidential academic data, the project leverages Python, Excel, statistical modeling, regression analysis, ANOVA, and data visualization techniques to identify performance trends, evaluate demographic impacts, and uncover key predictors of student success. The goal was to deliver data-driven insights that support academic improvement strategies and informed decision-making.
 
 🔗 [View Project Folder](./projects/Capstone)  
+
 ---
