@@ -59,7 +59,11 @@ DPMO analysis identified Literary Text as a key instructional gap in 6th grade:
   * Literary Text DPMO: 716,981
   * Informational Text DPMO: 660,377
   * Vocabulary DPMO: 622,642
+
 This indicated higher rates of weak or moderate performance in Literary Text comprehension.
+
+👉 Powepoint [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Key_findings.pdf)
+👉 Code [View Notebook on nbviewer](https://nbviewer.org/github/mcgarcia092/CristinaG_portfolio/blob/main/projects/Capstone/Codes.ipnyb)
 
 ---
 
@@ -70,6 +74,7 @@ The analysis demonstrated how improving literacy performance can positively infl
 * Long-term enrollment confidence
 * Resource allocation efficiency
 * Student equity outcomes
+
 The findings supported targeted literacy-focused interventions as the highest-impact strategy for improving both ELA and Math mastery outcomes.
 
 ---
